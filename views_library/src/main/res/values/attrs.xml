@@ -23,4 +23,13 @@
         <attr name="verticalOffset" format="dimension" />
     </declare-styleable>
 
+    <declare-styleable name="LoadingButton">
+        <attr name="buttonLoading" format="boolean" />
+        <attr name="buttonText" format="string" />
+        <attr name="buttonTextAppearance" format="reference" />
+        <attr name="buttonLoader" format="reference" />
+        <attr name="buttonLoaderSize" format="dimension" />
+
+    </declare-styleable>
+
 </resources>
