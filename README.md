@@ -19,7 +19,7 @@ allprojects {
 
 Step 2. Add the dependency
 ```gradle
-implementation 'com.github.GARPIX-Android:custom_view_pack:1.0.3'
+implementation 'com.github.GARPIX-Android:custom_view_pack:1.0.4'
 ```
 
 ## License
